@@ -3,7 +3,6 @@
 A curated collection of Proof of Concepts (POCs) demonstrating React Native capabilities, integrations, and best practices. Built for rapid experimentation and reference.
 
 ![Demo GIF/Video](<link-to-demo-gif-or-video>)  
-*(Optional: Add visual previews)*
 
 ---
 
